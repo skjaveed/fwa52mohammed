@@ -1,0 +1,5 @@
+extends layout
+
+block content
+  h1= title
+  p I work very hard but i sleep alot.
